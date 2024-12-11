@@ -1,0 +1,171 @@
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\printerAPI.exe.config
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\printerAPI.exe
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\printerAPI.pdb
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\ESC-POS-USB-NET.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\MQTTnet.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\SimpleTcp.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Buffers.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Drawing.Common.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.IO.Ports.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Memory.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Text.Json.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.ValueTuple.dll
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\SimpleTcp.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Buffers.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.IO.Ports.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Memory.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Text.Json.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\bin\Debug\System.ValueTuple.xml
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI_V2.csproj.AssemblyReference.cache
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI.Form1.resources
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI.MainForm.resources
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI.Properties.Resources.resources
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI_V2.csproj.GenerateResource.cache
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI_V2.csproj.CoreCompileInputs.cache
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI_V2.csproj.CopyComplete
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI.exe
+C:\Users\manual\Documents\Code\1. Project\Desktop C# - Printer Epson\printerAPI_V.2\obj\Debug\printerAPI.pdb
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\printerAPI.exe.config
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\printerAPI.exe
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\printerAPI.pdb
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\ESC-POS-USB-NET.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\MQTTnet.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\SimpleTcp.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Buffers.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Drawing.Common.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.IO.Ports.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Memory.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Json.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.ValueTuple.dll
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\SimpleTcp.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Buffers.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.IO.Ports.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Memory.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Json.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\bin\Debug\System.ValueTuple.xml
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI_V2.csproj.AssemblyReference.cache
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.Form1.resources
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.MainForm.resources
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.Properties.Resources.resources
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI_V2.csproj.GenerateResource.cache
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI_V2.csproj.CoreCompileInputs.cache
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerA.1014C0C4.Up2Date
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.exe
+C:\Users\manual\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.pdb
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\printerAPI.exe.config
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\printerAPI.exe
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\printerAPI.pdb
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\ESC-POS-USB-NET.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\MQTTnet.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\SimpleTcp.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Buffers.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Drawing.Common.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.IO.Ports.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Memory.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Json.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.ValueTuple.dll
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\SimpleTcp.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Buffers.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.IO.Ports.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Memory.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Text.Json.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\System.ValueTuple.xml
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI_V2.csproj.AssemblyReference.cache
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.Form1.resources
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.MainForm.resources
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.Properties.Resources.resources
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI_V2.csproj.GenerateResource.cache
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI_V2.csproj.CoreCompileInputs.cache
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerA.1014C0C4.Up2Date
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.exe
+C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\obj\Debug\printerAPI.pdb

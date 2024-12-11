@@ -1,0 +1,8 @@
+<setting>
+  <id_merchant>7d138815-7453-41e4-96cc-7995d338c663</id_merchant>
+  <name_merchant>Siap Bantu dulu</name_merchant>
+  <ip_host>"test.mosquitto.org"</ip_host>
+  <size>9</size>
+  <offsite>33</offsite>
+  <printer_name>EPSON TM-U220 Receipt</printer_name>
+</setting>
