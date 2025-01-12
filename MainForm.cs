@@ -228,8 +228,11 @@ namespace printerAPI
 
                 printer.DoubleWidth3();
                 //printer.BoldMode(payload.header.address);
-                PrintLeftAlignedText(printer, paperWidth, payload.header.address.Replace("<br>", "\n"));
-                printer.Append(payload.header.phone);
+                if (payload.advance_header)
+                {
+                    PrintLeftAlignedText(printer, paperWidth, payload.header.address.Replace("<br>", "\n"));
+                    printer.Append(payload.header.phone);
+                }
 
                 printer.NewLines(2);
 
@@ -243,6 +246,7 @@ namespace printerAPI
                 printer.AlignLeft();
                 printer.Append("Alamat Pelanggan :");
                 PrintLeftAlignedText(printer, paperWidth, payload.customer_address);
+                PrintInvoiceItem(printer, paperWidth, "Catatan          :", payload.notes);
                 printer.NewLines(2);
 
                 printer.AlignLeft();
