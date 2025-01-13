@@ -513,6 +513,8 @@ namespace printerAPI
         public Summary_Payment[] summary_payment { get; set; }
         public Header header { get; set; }
         public Footer footer { get; set; }
+        public bool advance_header { get; set; }
+        public string notes { get; set; }
     }
 
     public class Header
