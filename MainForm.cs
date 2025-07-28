@@ -32,7 +32,7 @@ namespace printerAPI
         private IMqttClient MqttClient;
         private IMqttClientOptions options;
 
-        private string MQTT_SERVER = "test.mosquitto.org";
+        private string MQTT_SERVER = "143.198.218.232";
         private string MQTT_CLIENT = "Printer_Desktop";
         MqttFactory factory = new MqttFactory();
         string topict = "printer";
@@ -65,6 +65,7 @@ namespace printerAPI
             font_size = Int32.Parse(size.InnerText);
             offsi = Int32.Parse(offsite.InnerText);
             labelStatus.Text += "Welcome!  " + name.InnerText.ToString();
+            labelStatus.Text += "\n";
 
             Console.WriteLine(topics);
         }
@@ -85,9 +86,9 @@ namespace printerAPI
                 }
                 catch
                 {
-                    labelConnectionServer.Text = ": Connecting";
+                    labelConnectionServer.Text = ": Connecting ...";
 
-                    Console.WriteLine(": Connecting");
+                    Console.WriteLine(": Connecting ...");
                     //if (labelConnectionServer.InvokeRequired)
                     //    labelConnectionServer.Invoke(new Action(() => labelConnectionServer.Text = ": Connecting"));
                 }
@@ -95,6 +96,7 @@ namespace printerAPI
             options = new MqttClientOptionsBuilder()
                 .WithClientId(MQTT_CLIENT)
                 .WithTcpServer(MQTT_SERVER)
+                .WithCredentials("valast", "6K##bV2@wH6!")
                 .Build();
             _ = MqttClient.UseConnectedHandler(async e =>
             {
@@ -156,29 +158,29 @@ namespace printerAPI
 
             var getResponse = JsonConvert.DeserializeObject<Rootobject>(payload);
 
-            string logoPath = @"C:\Users\manual\OneDrive\Documents\Code\1.Project\printer_csharp\bin\Debug\downloaded_image.jpg";
+            string logoPath = @"C:\Apps\thermal-printer\bin\Debug\downloaded_image.jpg";
 
             PrintDocument printDocument = new PrintDocument();
 
             printDocument.PrinterSettings.PrinterName = "EPSON TM-U220 Receipt";
 
-            //printDocument.PrintPage += (sender, e) =>
-            //{
-            //    Image logo = Image.FromFile(logoPath);
+            printDocument.PrintPage += (sender, e) =>
+            {
+                //Image logo = Image.FromFile(logoPath);
 
-            //    int targetWidth = 150;
-            //    int targetHeight = (int)((double)logo.Height / logo.Width * targetWidth);
-            //    Image resizedLogo = new Bitmap(logo, new Size(targetWidth, targetHeight));
+                //int targetWidth = 150;
+                //int targetHeight = (int)((double)logo.Height / logo.Width * targetWidth);
+                //Image resizedLogo = new Bitmap(logo, new Size(targetWidth, targetHeight));
 
-            //    int paperWidth = (int)e.PageBounds.Width; // Lebar kertas
-            //    int centerX = (paperWidth - targetWidth) / 2; // Posisi X di tengah
-            //    int centerY = 10; // Posisi Y (offset dari atas)
+                //int paperWidth = (int)e.PageBounds.Width; // Lebar kertas
+                //int centerX = (paperWidth - targetWidth) / 2; // Posisi X di tengah
+                //int centerY = 10; // Posisi Y (offset dari atas)
 
-            //    e.Graphics.DrawImage(resizedLogo, new Point(0, 0));
+                //e.Graphics.DrawImage(resizedLogo, new Point(0, 0));
 
-            //    // Cetak logo di bagian atas
-            //    //e.Graphics.DrawImage(resizedLogo, new Point(0, 0));
-            //};
+                // Cetak logo di bagian atas
+                //e.Graphics.DrawImage(resizedLogo, new Point(0, 0));
+            };
 
             printDocument.Print();
 
